@@ -1,2 +1,2 @@
 # symfony-social-media
-Simple Symfony Social Media for practicing NestJS and TypeScript
+Simple Symfony Social Media for practicing Symfony and Symfony Api Platform
