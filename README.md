@@ -2,7 +2,7 @@
 
 ... for practicing Symfony and Symfony Api Platform
 
-This Repo should contain the same features like the [NestJS Version](https://github.com/ColiZei/nestjs-social-media)
+This Repo should contain the same features as the [NestJS Version](https://github.com/ColiZei/nestjs-social-media)
 
 ## Why two repositorys?
 
