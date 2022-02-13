@@ -22,3 +22,11 @@ services:
 
     # add more service definitions when explicit configuration is needed
     # please note that last definitions always *replace* previous ones
+
+    # DataTransformer
+    'App\DataTransformer\UserInputDataTransformer': ~
+        # Uncomment only if autoconfiguration is disabled
+        #tags: [ 'api_platform.data_transformer' ]
+    'App\DataTransformer\UserOutputDataTransformer': ~
+        # Uncomment only if autoconfiguration is disabled
+        #tags: [ 'api_platform.data_transformer' ]
