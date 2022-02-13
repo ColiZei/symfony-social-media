@@ -6,8 +6,9 @@ This Repo should contain the same features like the [NestJS Version](https://git
 
 ## Why two repositorys?
 
-I'd would like to imporove my Symfony and NestJS skills.  
-You too? Feel free to join!  
+I'd would like to imporove my Symfony and NestJS skills.
+
+You too? Feel free to join!
 
 VueJs Client will be added soon in a seperate repository.
 
@@ -33,4 +34,10 @@ Visit phpMyAdmin at `http://localhost:8088/`
 
 ```bash
 docker-compose down
+```
+
+# Create Tables
+
+```bash
+php bin/console doctrine:migration:migrate
 ```
