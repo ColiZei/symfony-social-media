@@ -4,10 +4,12 @@
 
 This Repo should contain the same features like the [NestJS Version](https://github.com/ColiZei/nestjs-social-media)
 
-Why two repositorys?
+## Why two repositorys?
 
-I'd would like to imporove my Symfony and NestJS skills.
-You too? Feel free to join!
+I'd would like to imporove my Symfony and NestJS skills.  
+You too? Feel free to join!  
+
+VueJs Client will be added soon in a seperate repository.
 
 # Contribute
 
