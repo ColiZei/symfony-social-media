@@ -36,8 +36,20 @@ Visit phpMyAdmin at `http://localhost:8088/`
 docker-compose down
 ```
 
+# Install Dependencies
+
+```bash
+php composer install
+```
+
 # Create Tables
 
 ```bash
 php bin/console doctrine:migration:migrate
+```
+
+# Generate JWT Certificates
+
+```bash
+php bin/console lexik:jwt:generate-keypair
 ```
