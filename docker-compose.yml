@@ -52,7 +52,7 @@ services:
   phpmyadmin:
     depends_on:
       - db
-    image: phpmyadmin/phpmyadmin:5.1.1
+    image: phpmyadmin/phpmyadmin:5.1.3
     ports:
       - "8088:80"
     environment:
